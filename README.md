@@ -1,5 +1,5 @@
 
-# Kubernetes Game Deployment on Amazon EKS
+# Kubernetes-End-to-End-Deployment
 
 This repository provides an end-to-end guide for deploying a game application on an Amazon Elastic Kubernetes Service (EKS) cluster. The deployment includes setting up the EKS cluster, deploying the game application, configuring networking, and managing security and scaling.
 
